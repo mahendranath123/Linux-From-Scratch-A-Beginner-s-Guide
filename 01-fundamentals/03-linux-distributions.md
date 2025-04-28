@@ -132,4 +132,3 @@ Different distros optimize for **usability**, **stability**, **security**, or **
 
 ---
 
-> _“Choose the distro that aligns with your project goals, skill level, and hardware resources. Happy Linuxing!”_ 🚀  
